@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://online-kazino-oficialnyy-sayt505.github.io/sitemap.xml
